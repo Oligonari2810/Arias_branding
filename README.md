@@ -17,5 +17,4 @@ Objetivo: diseñar y versionar el **sistema de marca** (logo, paleta, tipografí
 ---
 
 ## 🌳 Estructura deseada del repo
-> **Nota para GitHub Copilot:** genera esta estructura con archivos vacíos o esqueleto y PRs separados por bloques.
-
+La carpeta principal es `/brand`. Contenido inicial: guía, assets, logos, paleta, tipografías, plantillas y kits.
