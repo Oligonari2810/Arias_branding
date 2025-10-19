@@ -1,4 +1,3 @@
-# Arias_branding
 # ARIAS — Ingeniería y Soluciones Constructivas
 
 **Repo maestro de BRANDING.** Fuente de la verdad = carpeta `/brand`.  
